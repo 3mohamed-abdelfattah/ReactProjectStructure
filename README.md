@@ -113,6 +113,6 @@ This will create an optimized production build of the project.
 ---
 
 <div align='center'>
-<h1>"Efficiency starts with organization; a well-structured system helps you accomplish more with less effort."</h1>
-<h2>"Work smart, not hard."</h2>
+<h5>"Efficiency starts with organization; a well-structured system helps you accomplish more with less effort."</h5>
+<h6>"Work smart, not hard."</h6>
 </div>
