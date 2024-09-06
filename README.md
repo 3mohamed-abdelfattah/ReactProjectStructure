@@ -1,7 +1,7 @@
 
 # Project Structure
 
-Quick development project structure **Vite[React]-Tailwind CSS-React Router**.  
+Quick development project structure **[Vite:React](https://vitejs.dev/guide/)-[Tailwind CSS](https://tailwindcss.com/docs/guides/vite)-[React Router](https://reactrouter.com/en/main/start/tutorial)**.  
 
 ## Table of Contents
 1. [Introduction](#introduction)
