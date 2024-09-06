@@ -1,5 +1,5 @@
 
-# Project Name
+# Project Structure
 
 Quick development project structure.
 
@@ -8,6 +8,9 @@ Quick development project structure.
 2. [Project Structure](#project-structure)
 3. [Installation](#installation)
 4. [Usage](#usage)
+
+
+![image](https://github.com/user-attachments/assets/18350413-7e40-4609-a3ae-f16a9c8a01c3)
 
 ---
 
