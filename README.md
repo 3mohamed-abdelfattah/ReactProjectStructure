@@ -88,8 +88,8 @@ Here's an overview of the project directory:
 To get started, clone the repository and install the dependencies.
 
 ```bash
-git clone https://github.com/3mohamed-abdelfattah/ProjectStructure.git
-cd ProjectStructure
+git clone https://github.com/3mohamed-abdelfattah/ReactProjectStructure.git
+cd ReactProjectStructure
 npm install
 ```
 
