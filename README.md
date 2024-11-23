@@ -9,8 +9,10 @@ Quick development project structure **[Vite:React](https://vitejs.dev/guide/)-[T
 3. [Installation](#installation)
 4. [Usage](#usage)
 
-
+<div align='center'>
+  
 ![coins](https://github.com/user-attachments/assets/a7a18ac8-8d67-4b0b-8e23-0db7ed629740)
+</div>
 
 
 
