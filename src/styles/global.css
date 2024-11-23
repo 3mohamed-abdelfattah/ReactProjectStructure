@@ -3,20 +3,20 @@
 @tailwind utilities;
 
 * {
-    outline: 1px solid #1A5319;
+  /* outline: 1px solid goldenrod; */
 }
 
 body {
-    /* @apply bg-background text-primary; */
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  @apply bg-primaryBackground;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 ::-webkit-scrollbar {
-    width: 0px;
+  width: 0px;
 }
