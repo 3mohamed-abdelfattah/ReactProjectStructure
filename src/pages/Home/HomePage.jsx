@@ -34,7 +34,7 @@ export const HomePage = () => {
                 This structure is here to help you start quickly and stay organized, so you can focus on writing great code. 🚀
             </h2>
             <h3 className={styles.subTitle}>
-                Happy coding and let creativity guide you! 🌟
+                🌟 Happy coding and let creativity guide you! 🌟
             </h3>
 
         </main>
