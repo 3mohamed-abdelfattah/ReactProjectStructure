@@ -3,24 +3,17 @@
 
 Quick development project structure **[Vite:React](https://vitejs.dev/guide/)-[Tailwind CSS](https://tailwindcss.com/docs/guides/vite)-[React Router](https://reactrouter.com/en/main/start/tutorial)**.  
 
-## Table of Contents
-1. [Introduction](#introduction)
-2. [Project Structure](#project-structure)
-3. [Installation](#installation)
-4. [Usage](#usage)
-
-<div align='center'>
-  
-![coins](https://github.com/user-attachments/assets/a7a18ac8-8d67-4b0b-8e23-0db7ed629740)
-</div>
-
-
-
 ---
 
 ## Introduction
 
 This project provides a simple and modular structure for quick development. It is designed to help developers get started quickly without spending much time setting up the basic project structure.
+
+
+<div align='center'>
+  
+![coins](https://github.com/user-attachments/assets/a7a18ac8-8d67-4b0b-8e23-0db7ed629740)
+</div>
 
 ## Project Structure
 
