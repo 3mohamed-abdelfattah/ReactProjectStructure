@@ -10,7 +10,9 @@ Quick development project structure **[Vite:React](https://vitejs.dev/guide/)-[T
 4. [Usage](#usage)
 
 
-![image](https://github.com/user-attachments/assets/18350413-7e40-4609-a3ae-f16a9c8a01c3)
+![coins](https://github.com/user-attachments/assets/a7a18ac8-8d67-4b0b-8e23-0db7ed629740)
+
+
 
 ---
 
