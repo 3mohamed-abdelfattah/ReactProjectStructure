@@ -98,7 +98,7 @@ Start the development server with the following command:
 npm run dev
 ```
 
-This will start the application and allow you to view it in your browser.
+This will start the application and allow you to view it in your browser http://localhost:5173/.
 
 ### Building for Production
 
